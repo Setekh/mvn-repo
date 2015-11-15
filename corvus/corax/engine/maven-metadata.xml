@@ -3,11 +3,10 @@
   <groupId>corvus.corax</groupId>
   <artifactId>engine</artifactId>
   <versioning>
-    <release>2.0.3</release>
+    <release>2.0.3-e</release>
     <versions>
-      <version>2.0.2-a</version>
-      <version>2.0.3</version>
+      <version>2.0.3-e</version>
     </versions>
-    <lastUpdated>20151114102324</lastUpdated>
+    <lastUpdated>20151115110742</lastUpdated>
   </versioning>
 </metadata>
